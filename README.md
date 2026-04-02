@@ -27,10 +27,5 @@ An observant and detail-oriented **Cybersecurity Professional** focused on offen
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2F74BA?style=for-the-badge&logo=metasploit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-
-### 📊 Telemetry & Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itschaithu&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/itschaithu)
-
 <br>
 <p align="center"><i>"Security is a process, not a product."</i></p>
