@@ -1,4 +1,4 @@
-<h1 align="left">Mamilla Krishna Chaitanya (Chaithu)</h1>
+<h1 align="left">Mamilla Krishna Chaitanya </h1>
 <h3 align="left">🛡️ Cybersecurity Analyst | Penetration Tester | Network Security</h3>
 
 An observant and detail-oriented **Cybersecurity Professional** focused on offensive security, network vulnerabilities, and enterprise-level penetration testing. I specialize in identifying security loopholes before bad actors do.
