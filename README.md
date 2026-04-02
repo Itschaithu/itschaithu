@@ -1,10 +1,7 @@
-<h3 align="left">
-  <code>login as: root</code><br>
-  <code>root@chaithu:~# whoami</code><br>
-  <code>> Mamilla Krishna Chaitanya (Chaithu)</code>
-</h3>
+<h1 align="left">Mamilla Krishna Chaitanya (Chaithu)</h1>
+<h3 align="left">🛡️ Cybersecurity Analyst | Penetration Tester | Network Security</h3>
 
-<h1 align="left">🕵️‍♂️ Cyber Threat Hunter & Security Analyst</h1>
+An observant and detail-oriented **Cybersecurity Professional** focused on offensive security, network vulnerabilities, and enterprise-level penetration testing. I specialize in identifying security loopholes before bad actors do.
 
 An observant and detail-oriented **Cybersecurity Professional** focused on offensive security, network vulnerabilities, and enterprise-level penetration testing. I specialize in identifying security loopholes before the bad actors do.
 
