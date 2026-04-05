@@ -1,5 +1,5 @@
 <h1 align="left">Mamilla Krishna Chaitanya </h1>
-<h3 align="left">🛡️ Cybersecurity Analyst | Penetration Tester | Network Security</h3>
+<h3 align="left">🛡️ Aspiring Cybersecurity Analyst | Penetration Tester | Network Security</h3>
 
 I am actively transitioning into Cybersecurity, focusing on offensive security and enterprise networks. I don't just read theory; I build labs, run scripts, and document my learnings.
 
