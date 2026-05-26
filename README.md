@@ -1,7 +1,7 @@
 # Mamilla Krishna Chaitanya
 ### 🛡️ SOC Analyst Candidate | Network Defense | Threat Detection & Log Analysis
 
-Not from an IT background. Built one anyway — lab by lab, PCAP by PCAP.
+Not from an IT background. Built one anyway - lab by lab, PCAP by PCAP.
 
 Cisco Certified Ethical Hacker. Currently executing the SOC Level 1 path on TryHackMe, hunting web app vulnerabilities on PortSwigger, and documenting every finding here. The labs don't lie.
 
